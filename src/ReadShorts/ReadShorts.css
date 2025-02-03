@@ -1,0 +1,37 @@
+h2 {
+    font-family: 'Young Serif', serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #0191fd;
+    padding-left: 10px;
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0191fd;
+  color: #e2d8c9;
+  padding-left: 12px;
+  
+  border: 1px solid #0191fd;
+}
+
+.row:hover {
+  background-color: #e2d8c9;
+  color: #0191fd;
+}
+
+td {
+    color: #0191fd;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: #0191fd 1px solid;
+}

@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+}
+
+.nav {
+    background-color: #0191fd;
+    color: #e2d8c9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 1rem;
+}
+
+.nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+    text-align: left;
+}
+
+.nav a {
+    color: inherit;
+}
+
+.site-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav li:hover {
+    background-color: #e2d8c9;
+    color: #0191fd;
+}

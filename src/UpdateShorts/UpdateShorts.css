@@ -1,0 +1,70 @@
+.form-group {
+    margin-bottom: 15px;
+}
+
+.title {
+    font-family: 'Young Serif', serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #0191fd;
+    padding-left: 10px;
+}
+
+.form-control {
+    width: 100%; 
+    padding: 8px;
+    font-size: 16px;
+}
+
+.btn-primary {
+    font-size: 16px;
+}
+
+
+h1 {
+    border-bottom: 2px solid #0191fd;
+    padding-bottom: 10px;
+}
+
+div {
+    background-color: #e2d8c9 ;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #e2d8c9;
+    font-family: 'Young Serif', serif;
+}
+
+label {
+    font-family: 'Young Serif', serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #0191fd;
+    padding-left: 10px;
+}
+
+.createButton {
+    font-family: 'Young Serif', serif;
+    background-color: #0191fd;
+    color: #e2d8c9;
+    font-size: 16px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+}
+
+h4 {
+    font-family: 'Young Serif', serif;
+    font-weight: thin;
+    margin-bottom: 20px;
+    color: #0191fd;
+    padding-left: 10px;
+}
+
+input {
+    width: 50%;
+}

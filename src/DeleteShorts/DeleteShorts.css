@@ -1,0 +1,9 @@
+.deleteButton {
+    font-family: 'Young Serif', serif;
+    background-color: #0191fd;
+    color: #e2d8c9;
+    font-size: 16px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+}
